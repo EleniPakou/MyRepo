@@ -1,2 +1,2 @@
 # MyRepo
-Java, MySQL, JDBC
+Java, MySQL, JDBC, Spring MVC hibernate, HTML, CSS, Javascript, jQuery, Bootstrap
